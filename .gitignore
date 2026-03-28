@@ -7,3 +7,4 @@ __pycache__/
 *.pyo
 .env
 /.venv
+/K_fold_data_splitting.ipynb
